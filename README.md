@@ -2,9 +2,6 @@ Hello, I'm a new developer.
 
 Mainly Python.
 
-New line added
+포트폴리오 주소: https://www.notion.so/ca481011e00d4eeb9a70b433b834e1b2?pvs=4
 
-Testing Sellog Automation
-2nd try 3rd commit
 
-5월 16일 커밋 배포서버
