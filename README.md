@@ -1,6 +1,6 @@
-Hello, I'm a new developer.
+프론트 엔드 개발자 김도현 입니다.
 
-Mainly Python.
+
 
 포트폴리오 주소:
 
