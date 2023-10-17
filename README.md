@@ -1,8 +1,8 @@
-## 김도현
+# 김도현
 
 Frontend Engineer
 
-### Skill
+## Skill
 ---
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -12,7 +12,7 @@ Frontend Engineer
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-### Projects
+## Projects
 ---
 #### [SELLOG](https://github.com/Dohyun-Kimm/SELLOG)
 개발자들을 위한 습관 기록 자동화 서비스  (2023.04 ~ 2023.05)
