@@ -14,13 +14,13 @@ Frontend Engineer
 
 ## Projects
 
-#### [SELLOG](https://github.com/Dohyun-Kimm/SELLOG)
+**[SELLOG](https://github.com/Dohyun-Kimm/SELLOG)**
 개발자들을 위한 습관 기록 자동화 서비스  (2023.04 ~ 2023.05)
 
-#### [SoundBridge](https://github.com/Dohyun-Kimm/Soundbridge)
+**[SoundBridge](https://github.com/Dohyun-Kimm/Soundbridge)**
 청각장애인을 위한 일상 생활 대화 보조 서비스  ( 2023.02 ~ 2023.04)
 
-#### [Dear My Baby](https://github.com/Dohyun-Kimm/DearMyBaby)
+**[Dear My Baby](https://github.com/Dohyun-Kimm/DearMyBaby)**
 어린아이를 키우는 부모를 위한 가족 여행 계획, 기록, 앨범 서비스 (2023.01 ~ 2023.02)
 
 
