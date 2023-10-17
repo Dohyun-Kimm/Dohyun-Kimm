@@ -23,8 +23,11 @@ Frontend Engineer
 **[Dear My Baby](https://github.com/Dohyun-Kimm/DearMyBaby)**<br/>
 어린아이를 키우는 부모를 위한 가족 여행 계획, 기록, 앨범 서비스 (2023.01 ~ 2023.02)
 
-
+## Educations
+2022.07 ~ 2023.05 삼성 청년 소프트웨어 아카데미 8기 수료
+2016.03 ~ 2022.02 가천대학교 응용통계학과 졸업
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dohyun-Kimm)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dohyun-Kimm)](https://github.com/anuraghazra/github-readme-stats)-->
+
