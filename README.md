@@ -3,6 +3,7 @@
 Frontend Engineer
 
 ### Skill
+---
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -12,6 +13,7 @@ Frontend Engineer
 
 
 ### Projects
+---
 #### [SELLOG](https://github.com/Dohyun-Kimm/SELLOG)
 개발자들을 위한 습관 기록 자동화 서비스  (2023.04 ~ 2023.05)
 
