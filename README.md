@@ -1,7 +1,7 @@
 # 김도현
 
 #### Frontend Engineer <br/>
-#### E-mail : ehgus964@gmail.com<br/>
+#### E-mail : ehgus964@gmail.com <br/>
 #### Portfolio : http://bit.ly/dohyunKim
 ## Skill
 
